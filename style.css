@@ -1,0 +1,31 @@
+img {
+  width: 200px;
+  height: auto ;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.A {
+  border: 5px solid black;
+  padding: 20px;
+  width: 200px;
+}
+.container {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.A {
+  border: 5px solid black;
+  padding: 20px;
+  width: 300px;
+}
+
+h1 {
+  font-family:'Fredoka', sans-serif;
+  font-size: 3rem;
+}
+
